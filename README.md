@@ -1,12 +1,14 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+<!-- !!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+-->
+# Bracket-Maker
 
-# !!!Project Name!!!
+**Problem**: Making a bracket for a tournament and communicating the timing and matchups to participants is challenging.
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+**Idea**: Some single page web app or other application that makes it easy to manage any kind of home spun or official tournament. You enter the participants and their contact info, the tournament setup (single / double elim. etc) and then the bracket is automatically built. Scheduling and notifications would be nice features.
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* **[Jose Sanchez](https://usabilityengineering.github.io/ux-portfolio-Syndicate1259/)** - ReadME,
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
@@ -22,11 +24,13 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
-
+* Researched competitors using heuristic analysis
+  * The heuristic analysis will help with improving where competitors did bad and recognizing what competitors did right
+* Designed wireframes and prototypes of initial website design
+  + Collaborated and came up with personas and scenarios for website
+* Designed wireframes and prototypes of initial website design
+  + Wireframes and prototypes help with the visualization and building of website given heuristic and personas/scenarios
+ 
 [Full phase I report](phaseI/)
 
 # Phase II: Refining interaction and designing wireframes
@@ -50,3 +54,4 @@
 * !!!as an executive would understand.!!!
 
 [Full phase III report](phaseIII/)
+<!-- --->
