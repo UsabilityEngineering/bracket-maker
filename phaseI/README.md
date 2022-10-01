@@ -10,11 +10,15 @@
 
 + Findings
   + Heuristic Evaluation
-    + Competitors lack in professional looking design and User Experience for navigaitng the website
+    + Competitors lack in professional looking design and User Experience for navigating the website
+    + Creating a bracket was frustating since adding players is done through a seperate page than the main bracket editing page. 
   + Personas and Scenarios
-    + Users want a nice looking website that should cover typical 
+    + Users want a nice looking website that should cover tournament styles of most popular games
+    + Website design should have a sleek "gamer" feel and look
   + Sketches and Diagrams
-    + 
+    + Website should incorporate finding of other brackets
+    + Website login page is simple and provides alternate logins to platforms popular for gamers
+   
 + Conclusions
   + From our methods, which include our personas and scenarios, heuristic evaluation, and sketches. We have discovered more ideas that would further help bolster our project’s foundation and create a more in depth and ideal interface. Our findings from using personas and scenarios methods, have brought up different circumstances which helped us think of a better designed interface, implementation, and tools to advance our Bracket Maker. The different personas and scenarios allowed us to see how others would want to visualize a better formulated bracket maker. The findings from our heuristic evaluation of our competitor’s website has helped influence how we want to interpret our design as our user experience using their website was troublesome in some features and good in others. Specifically we had a tough time determining how to create our bracket on our competitors site, and for our future work we would want to incorporate an easier design so that the user experience is easier. Using our sketches method we were able to create a couple different designs of how our page should look, before implementing the design in hard code. Sketches were great to help visualize how we want to shape our future work.
 + Caveats
