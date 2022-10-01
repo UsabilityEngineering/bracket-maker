@@ -10,8 +10,7 @@
 
 * **[Jose Sanchez](https://usabilityengineering.github.io/ux-portfolio-Syndicate1259/)** - ReadME,
 * **[William Lyons](https://github.com/UsabilityEngineering/ux-portfolio-wtlyons54)** - Personas & Scenarios,
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
-
+* **[Rodrigo Lopez](https://github.com/UsabilityEngineering/ux-portfolio-rylopez838)** - Sketches
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
