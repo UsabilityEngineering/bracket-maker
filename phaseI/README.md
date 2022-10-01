@@ -1,6 +1,6 @@
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
-### Braket Maker: Jose Sanchez, William Lyons, and Rodrigo Lopez. 
+### Bracket Maker: Jose Sanchez, William Lyons, and Rodrigo Lopez. 
 + Methods
   + One of the first methods we used was heuristic. The reason we decided to use the heuristic method was because it helped us evaluate the users interests as well as the things that satisfies its needs.
 
