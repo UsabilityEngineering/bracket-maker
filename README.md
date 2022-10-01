@@ -9,7 +9,7 @@
 ## UX Team Members
 
 * **[Jose Sanchez](https://usabilityengineering.github.io/ux-portfolio-Syndicate1259/)** - ReadME,
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[William Lyons](https://github.com/UsabilityEngineering/ux-portfolio-wtlyons54)** - Personas & Scenarios,
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
