@@ -8,7 +8,7 @@
 
 ## UX Team Members
 
-* **[Jose Sanchez](https://usabilityengineering.github.io/ux-portfolio-Syndicate1259/)** - ReadME,
+* **[Jose Sanchez](https://usabilityengineering.github.io/ux-portfolio-Syndicate1259/)** - ReadME, Sketches, P1 report
 * **[William Lyons](https://github.com/UsabilityEngineering/ux-portfolio-wtlyons54)** - Personas & Scenarios,
 * **[Rodrigo Lopez](https://github.com/UsabilityEngineering/ux-portfolio-rylopez838)** - Sketches
 # User-Centered Design Artifacts
@@ -24,9 +24,9 @@
 **Executive Summary**
 
 * Researched competitors using heuristic analysis
-  * The heuristic analysis will help with improving where competitors did bad and recognizing what competitors did right
-* Designed wireframes and prototypes of initial website design
-  + Collaborated and came up with personas and scenarios for website
+  + The heuristic analysis will help with improving where competitors did bad and recognizing what competitors did right
+* Collaborated and came up with personas and scenarios for website
+  + Personas and Scenarios help decide what is the optimal and core functionality of the website for our given target user
 * Designed wireframes and prototypes of initial website design
   + Wireframes and prototypes help with the visualization and building of website given heuristic and personas/scenarios
  
