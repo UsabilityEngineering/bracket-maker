@@ -9,7 +9,12 @@
   + We incorporated the Sketches method to give us an abstract overview of our websites design and flow. 
 
 + Findings
-  + 1
+  + Heuristic Evaluation
+    + Competitors lack in professional looking design and User Experience for navigaitng the website
+  + Personas and Scenarios
+    + Users want a nice looking website that should cover typical 
+  + Sketches and Diagrams
+    + 
 + Conclusions
   + 1
 + Caveats
