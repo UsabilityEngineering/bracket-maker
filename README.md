@@ -1,5 +1,3 @@
-<!-- !!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
--->
 # Bracket-Maker
 
 **Problem**: Making a bracket for a tournament and communicating the timing and matchups to participants is challenging.
@@ -13,7 +11,6 @@
 * **[Rodrigo Lopez](https://github.com/UsabilityEngineering/ux-portfolio-rylopez838)** - Sketches, P1 report: Methods
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframe/)
