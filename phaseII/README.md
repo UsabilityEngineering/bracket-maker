@@ -1,6 +1,10 @@
 # Phase II: Refining interaction and designing wireframes
 ### Bracket Maker: Rodrigo Lopez, William Lyons, Jose Sanchez
-+ Methods - Describe methods you used to discover new insights, which explains the purpose of each 
++ Methods:
+  + Wireframing:
+      + The first method we used this phase was creating a wireframe to gain a better visualization of our project and what we wanted to accomplish. Wireframing allows us to see how we want our project to look and function before actually starting any code. 
+  + Cognative Walk-Through:
+      + The Second method we used this phase was allowing testers to run cognative walk throughs by thinking like our personas and scenarios method while they go through our wireframe. This allows us to see if we were able to get all of the material we would need to satisfy the user. 
 
 + Findings
   + Cog. Walk-through: 
