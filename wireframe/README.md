@@ -6,6 +6,7 @@
 - This is our initial arrival/home page. From here you can either click sign up to go to the registration page, login to go to the login page, or if you click the center button in the page it will also redirect you to the login page before you are permitted to create a bracket.  
 
 <br>
+ <br>
 
 **Registration Page**  
 
@@ -20,6 +21,7 @@
 - This is our Login page, where after already registering for an account, you may login and continue with anything you have previously worked on.
 
 <br>
+ <br>
 
 **Home Page - With User**  
 
@@ -27,6 +29,7 @@
 - This is what our Home page will look like after either the registration page or login page redirects you. You can then click the button in the middle to create a new Bracket.
 
 <br>
+ <br>
 
 **Bracket Creation Page - Bracket**  
 
@@ -34,6 +37,7 @@
 - This is our initial Bracket Creation page, where you can adjust the amount of players you want within the bracket youre creating.
 
 <br>
+ <br>
 
 **Bracket Creation Page - Game Info**  
 
@@ -41,6 +45,7 @@
 - This is our second Bracket Creation page, where you can add a bracket description, choose the tournament type, pick a game, and add your own bracket background. 
 
 <br>
+ <br>
 
 **Generated Bracket Page**  
 
