@@ -14,6 +14,7 @@
 - This is our Registration page, where you are able to create an account. After creating an account it will then redirect you to the home page.  
 
 <br>
+ <br>
 
 **Login Page**  
 
