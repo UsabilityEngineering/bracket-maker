@@ -33,10 +33,11 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* User Evaluation and Desires
++ During Phase II we recieved feedback from other members of other projects. Members got together and evaluated our progress so far. Improvements had to be made based on feedback.
+* Wireframe Evaluation Perspective
++ We sat down and evaluated our work based as someone else using our product. Changes had to be made. 
+
 
 [Full phase II report](phaseII/)
 
