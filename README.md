@@ -6,7 +6,7 @@
 
 ## UX Team Members
 
-* **[Jose Sanchez](https://usabilityengineering.github.io/ux-portfolio-Syndicate1259/)** - ReadME, Sketches, P1 report: findings
+* **[Jose Sanchez](https://usabilityengineering.github.io/ux-portfolio-Syndicate1259/)** - ReadME, Sketches, P1: findings, P2: Findings, Conclusions, Caveats
 * **[William Lyons](https://github.com/UsabilityEngineering/ux-portfolio-wtlyons54)** - Personas & Scenarios, P1 report: Conclusions, Caveats
 * **[Rodrigo Lopez](https://github.com/UsabilityEngineering/ux-portfolio-rylopez838)** - Sketches, P1 report: Methods
 # User-Centered Design Artifacts
