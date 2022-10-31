@@ -33,10 +33,16 @@
 
 **Executive Summary**
 
-* User Evaluation and Desires
-+ During Phase II we recieved feedback from other members of other projects. Members got together and evaluated our progress so far. Improvements had to be made based on feedback.
-* Wireframe Evaluation Perspective
-+ We sat down and evaluated our work based as someone else using our product. Changes had to be made. 
+* Created wireframe design for bracket maker interface. 
+  + Created and designed wireframes with minimal illustration for the necessary elements. Elements like the logos and personas did not have any styling, picture, or color since we focused more on the functionality rather than the appearance/presentation. This helped us make progress towards the project by getting closer to what our protopypes will consist of.
+* Cognitive Walkthrough on personas and scenarios.
+  + While working on our wireframes, we were able to read other team’s Personas and Scenarios while also doing a cognitive walkthrough afterwards. Some things that we learned were how a user learns and navigates through new systems/software that they have never been exposed to. 
+* Informal user feedback from Software Engineer team
+  + Through our SE team, we were able to receive some feedback after their first mvp presentation. Some feedback that was brought up was implementing different kinds of tournaments like single elimination, double elimination,and other styles.
+* Final Analysis and Summary Evaluation
+  + During phase II there was more learning compared to phase I. The main reason for this was due to the team being able to do a cognitive walkthrough on the personas as well as the scenarios. The most important takeaway from this was how while we were doing the cognitive walkthoughs we got a different perspective compared as to when we were creating our own. Afterwards we discussed among the group what each person liked and disliked and we use that to implement those toughts into our project. The project is now heading into phase III were prototypes will now be desgined and used instead of sketches and the wireframes. There will also be user testing which during phase I and II did not occured. We expect for user testing to give us a insight and use that to improve areas that need it.     
+  
+
 
 
 [Full phase II report](phaseII/)
