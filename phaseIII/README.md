@@ -21,6 +21,8 @@
   
   
 + Caveats
-  + (the population of the user testers were computer science students) 
-  + (use (n=5) to describe number of participants)
+  + The population of the user testers consisted of dominantly computer science, electical engineering, and computer information system students.
+  + The number of participants(n=5) used for research was rather on the low side.
+  + The prototype ran into a few problems when running the user test, leading to the moderator stepping in to help the participant continue.
+
   
