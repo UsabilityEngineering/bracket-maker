@@ -11,7 +11,7 @@
     
 + Findings
   + Pilot Test:
-    + From the pilot test conducted, we were able to see first hand what the participants from our future user testing would see and how they might perceive each task. We discovered some flaws within our prototype when we were trying to complete some of the tasks, which we were able to fix. We also thought up some new ideas that we could add to the prototype and the task list that would further benefit the usability experience of our project.
+    + From the pilot test conducted, the UX team was able to see first hand what the participants from the future user testing would see and how they might perceive each task. The team was able to discover some flaws within the prototype when they were trying to complete some of the tasks, which they were able to fix. The team also thought up some new ideas that they could add to the prototype and the task list that would further benefit the usability experience of the project.
     
   + User Test:
     + user test findings
