@@ -14,8 +14,7 @@
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframe/)
-* [Prototype](prototype/)
-
+* [Prototype](https://github.com/UsabilityEngineering/bracket-maker/blob/main/prototype/Bracket%20Maker%20Webframe.pdf)
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
 **Executive Summary**
@@ -58,4 +57,4 @@
 
 [Full phase III report](phaseIII/)
 <!-- --->
-[Prototype](https://github.com/UsabilityEngineering/bracket-maker/blob/main/prototype/Bracket%20Maker%20Webframe.pdf)
+
