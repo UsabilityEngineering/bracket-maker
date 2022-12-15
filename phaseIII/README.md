@@ -19,7 +19,7 @@
   
     
 + Conclusions
-  + conclusions found
+  + In conclusion, the prototype seemed to work good enough for it to be able to used and reference on developing the next iteration of the web app. We found that some participants ran into some problems due to limitations coming form our prototype but the problems could easily be fixed. We also were able to learn a lot from feedback of our users. We notice how their feedback on both positive and negative things give us a insight to what we can work next on our prototype. From our findings, any improvements that need to be done of the prototype would be easily solved with the web app. Once the web up is caught up to the prototype, another user test can be run to see if there are any functionality issues or missing features. 
 
   
 + Caveats
