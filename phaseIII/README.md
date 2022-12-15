@@ -14,12 +14,13 @@
     + From the pilot test conducted, the UX team was able to see first hand what the participants from the future user testing would see and how they might perceive each task. The team was able to discover some flaws within the prototype when they were trying to complete some of the tasks, which they were able to fix. The team also thought up some new ideas that they could add to the prototype and the task list that would further benefit the usability experience of the project.
     
   + User Test:
-    + user test findings
+    + From the user test results, we have found the prototype to be a big issue because of the prototype limitations and missing interactions. One issue is that there are missing pages for adding and removing both players and teams in the bracket-generating part of the prototype. This led to users reaching a dead state in the prototype and requiring us to intervene and progress the prototype how the user expected to. All of the participants mentioned they disliked running into issues because of missing interactions.
+    + The UI team did a good job of making sure the key functionality was in the prototype, but, the prototype is in need of further refinement. One recemmondation was to make the home-screen less cluttered since it felt there was a lot of space being used. Overall, the participants stated that most of the improvements were minor and something the final product would be able to easily fix.
   
     
 + Conclusions
   + conclusions found
-  
+
   
 + Caveats
   + The population of the participants from the user test group consisted dominantly of computer science, electical engineering, and computer information system students.
