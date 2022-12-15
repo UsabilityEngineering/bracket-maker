@@ -8,7 +8,7 @@
 
 * **[Jose Sanchez](https://usabilityengineering.github.io/ux-portfolio-Syndicate1259/)** - ReadME, Sketches, P1: findings, P2: Findings, Conclusions, Caveats, P3: Exec. Summary, Findings: User Test
 * **[William Lyons](https://github.com/UsabilityEngineering/ux-portfolio-wtlyons54)** - Personas & Scenarios, P1 report: Conclusions, Caveats, Wireframe, P2: Methods, P3: Methods, Findings: Pilot Test, Caveats
-* **[Rodrigo Lopez](https://github.com/UsabilityEngineering/ux-portfolio-rylopez838)** - Sketches, P1 report: Methods
+* **[Rodrigo Lopez](https://github.com/UsabilityEngineering/ux-portfolio-rylopez838)** - Sketches, P1 report: Methods P2 Report: Final analysis and Summary Evaluation, P3: Conclusion.
 # User-Centered Design Artifacts
  
 * [Personas and Scenarios](personas/)
