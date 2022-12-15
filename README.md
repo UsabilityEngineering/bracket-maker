@@ -14,7 +14,7 @@
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframe/)
-* [Prototype](#) - Coming soon (phase III)!
+* [Prototype](prototype/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
