@@ -6,7 +6,7 @@
 
 ## UX Team Members
 
-* **[Jose Sanchez](https://usabilityengineering.github.io/ux-portfolio-Syndicate1259/)** - ReadME, Sketches, P1: findings, P2: Findings, Conclusions, Caveats
+* **[Jose Sanchez](https://usabilityengineering.github.io/ux-portfolio-Syndicate1259/)** - ReadME, Sketches, P1: findings, P2: Findings, Conclusions, Caveats, P3: Exec. Summary
 * **[William Lyons](https://github.com/UsabilityEngineering/ux-portfolio-wtlyons54)** - Personas & Scenarios, P1 report: Conclusions, Caveats, Wireframe, P2: Methods, P3: Methods, Findings(Pilot Test), Caveats
 * **[Rodrigo Lopez](https://github.com/UsabilityEngineering/ux-portfolio-rylopez838)** - Sketches, P1 report: Methods
 # User-Centered Design Artifacts
@@ -51,10 +51,10 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Conducted Pilot Test
+  + Within the UX team, we conducted a pilot test to see how prepared we were for a User Test of our prototype. During the pilot test, we realized the tasks were not complete and needed to be redone. The tasks were very broad and didn't include much website feature usage such as operating a bracket scoreboard and adjusting tournament information such as game, info, and tournament type. Also, we had to expand our prototype to allow for operating a scoreboard and viewing an already available bracket.
+* Conducted User Test
+  + After making the changes, we were ready to conduct a User Test. During the User Test, we found the prototype to be a bigger issue than completing the tasks. We found out that all of our users were able to complete the tasks, but, would miss out on some minor prototype interaction to complete accessory information such as adding player names, bracket name, and team names. This was because the prototype did not do a good job of signaling to the user on a computer that the field is interactable. The interaction would have been more obvious on mobile since a keyboard can pop up when you need ti input text. On desktop, a blinking vertical line indicates typeable. Overall, the user test was a success and given more time, the next thing we would be focusing on on refining the prototype to more closely resemble the final product.
 
 [Full phase III report](phaseIII/)
 <!-- --->
